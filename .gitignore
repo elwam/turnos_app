@@ -1,0 +1,22 @@
+# Backend (Django)
+backend/myenv/
+backend/__pycache__/
+backend/*.sqlite3
+backend/.env
+
+# Frontend (React.js/Vue.js)
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+
+# Móvil (Kotlin/Flutter)
+movil/build/
+movil/.dart_tool/
+movil/.flutter-plugins
+movil/.flutter-plugins-dependencies
+movil/.pub-cache/
+movil/.pub/
+
+# General
+.DS_Store
+*.log
